@@ -8,7 +8,7 @@ This project combines **Data Science**, **Statistical Modeling**, and **Business
 
 ## 📊 Dashboard Preview
 
-![Dashboard](screenshots/Airbnb%20Statistical%20Dashboard.png)
+![Dashboard](images/Airbnb%20Statistical%20Dashboard.png)
 
 ---
 
